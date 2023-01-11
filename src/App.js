@@ -23,7 +23,7 @@ export default function App() {
         style={{
           border: "1px solid #424874",
           padding: 20,
-          margin: 10,
+          margin: 20,
           background: "#DCD6F7"
         }}
       >
